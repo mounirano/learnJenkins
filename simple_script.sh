@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "this script is hosted on GitHub"
-NUMBER=$(($NUMBER1 + $NUMBER2))
+echo "this script is from github"
+NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
